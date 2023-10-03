@@ -1,0 +1,17 @@
+{
+    "noticias": [
+        {
+            "titulo": "Neymar",
+            "descricao": "Joga Muita Bola"
+            
+        },
+        {
+            "titulo": "Título da Notícia 2",
+            "descricao": "Descrição da Notícia 2"
+        },
+        {
+            "titulo": "Título da Notícia 3",
+            "descricao": "Descrição da Notícia 3"
+        }
+    ]
+}
